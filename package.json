@@ -1,0 +1,16 @@
+{
+  "name": "bot-tk",
+  "version": "1.0.0",
+  "description": "A simple bot to run local music",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": ["javascript", "nodejs", "discordjs"],
+  "author": "Nicolas Codonho Scorpelini",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
